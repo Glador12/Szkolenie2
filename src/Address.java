@@ -1,7 +1,7 @@
-class Address {
+class AddressCwiczenie {
     String city;
-    String street;
-    int home;
-    int flat;
     String postalCode;
+    String street;
+    String homeNo;
+    String flatNo;
 }
